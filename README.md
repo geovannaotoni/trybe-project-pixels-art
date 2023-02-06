@@ -1,5 +1,6 @@
 # Projeto Arte com Pixels 
-## Feito a partir dos conhecimentos de CSS, HTML e JavaScript, DOM e Eventos.
+[https://geovannaotoni.github.io/trybe-project-pixels-art/](https://geovannaotoni.github.io/trybe-project-pixels-art/)
+<br><br>Feito a partir dos conhecimentos de CSS, HTML e JavaScript, DOM e Eventos.
 ##### 1 - Adicione à página o título "Paleta de Cores".
 ##### 2 - Adicione à página uma paleta contendo quatro cores distintas.
 ##### 3 - Adicione a cor preta como a primeira cor da paleta de cores.
