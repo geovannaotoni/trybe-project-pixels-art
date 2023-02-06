@@ -37,16 +37,12 @@ for (let index = 1; index <= 3; index += 1) {
 const generateColorButton = document.getElementById('button-random-color');
 const inputColor = () => {
   const divColor = document.getElementsByClassName('color');
+  const colorPalette = {}
   for (let index = 1; index < divColor.length; index += 1) {
     divColor[index].style.backgroundColor = generateColor();
+    // Requisito 5 - Salvar as cores geradas no localStorage
+    colorPalette[index] = divColor[index].style.backgroundColor;
   }
-
-  // Requisito 5 - Salvar as cores geradas no localStorage
-  const colorPalette = {
-    1: divColor[1].style.backgroundColor,
-    2: divColor[2].style.backgroundColor,
-    3: divColor[3].style.backgroundColor,
-  };
   localStorage.setItem('colorPalette', JSON.stringify(colorPalette));
 };
 
@@ -189,4 +185,5 @@ window.onload = () => {
   restorePalette();
   restoreSize();
   restoreDraw();
+  paintPixel();
 };
