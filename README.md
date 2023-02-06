@@ -1,5 +1,4 @@
-# trybe-project-pixels-art
-Projeto Arte com Pixels feito a partir dos conhecimentos de CSS, HTML e JavaScript, DOM e Eventos.
+# Projeto Arte com Pixels feito a partir dos conhecimentos de CSS, HTML e JavaScript, DOM e Eventos.
 1 - Adicione à página o título "Paleta de Cores".
 2 - Adicione à página uma paleta contendo quatro cores distintas.
 3 - Adicione a cor preta como a primeira cor da paleta de cores.
@@ -12,3 +11,6 @@ Projeto Arte com Pixels feito a partir dos conhecimentos de CSS, HTML e JavaScri
 10 - Crie uma função que permita preencher um pixel do quadro com a cor selecionada na paleta de cores.
 11 - Crie um botão que retorne a cor do quadro para a cor inicial.
 12 - Crie uma função para salvar e recuperar o seu desenho atual no localStorage.
+13 - Crie um input que permita à pessoa usuária preencher um novo tamanho para o quadro de pixels.
+14 - Crie uma função que limite o tamanho mínimo e máximo do quadro de pixels.
+15 - Crie uma função para manter o tamanho novo do board ao recarregar a página.
