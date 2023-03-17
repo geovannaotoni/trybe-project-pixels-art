@@ -1,8 +1,10 @@
 # Projeto Arte com Pixels 
 Projeto que consiste em um editor de arte com pixels. Ele permite que a pessoa usuária escolha uma cor em uma paleta de cores e pinte o que quiser em um quadro branco.
+<img src="./pixelsart.gif">
 
 ## :computer: Visualize este projeto:
-[Acesse o site pelo GitHub Pages aqui!](https://geovannaotoni.github.io/trybe-project-pixels-art/)
+Acesse o site pelo GitHub Pages aqui!
+[https://geovannaotoni.github.io/trybe-project-pixels-art/](https://geovannaotoni.github.io/trybe-project-pixels-art/)
 
 ## :bulb: Habilidades:
 Feito a partir dos conhecimentos de CSS, HTML, JavaScript, DOM e Eventos.
