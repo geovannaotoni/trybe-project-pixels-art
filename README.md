@@ -1,6 +1,13 @@
 # Projeto Arte com Pixels 
-[https://geovannaotoni.github.io/trybe-project-pixels-art/](https://geovannaotoni.github.io/trybe-project-pixels-art/)
-<br><br>Feito a partir dos conhecimentos de CSS, HTML e JavaScript, DOM e Eventos.
+Projeto que consiste em um editor de arte com pixels. Ele permite que a pessoa usuária escolha uma cor em uma paleta de cores e pinte o que quiser em um quadro branco art artist
+
+## 👨‍💻 Visualize este projeto:
+[Acesse o site pelo GitHub Pages aqui!](https://geovannaotoni.github.io/trybe-project-pixels-art/)
+
+## :bulb: Habilidades:
+Feito a partir dos conhecimentos de CSS, HTML, JavaScript, DOM e Eventos.
+
+## Requisitos:
 ##### 1 - Título "Paleta de Cores".
 ##### 2 - Adicione à página uma paleta contendo quatro cores distintas.
 ##### 3 - Adicione a cor preta como a primeira cor da paleta de cores.
